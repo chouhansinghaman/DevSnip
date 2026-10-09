@@ -5,3 +5,9 @@ Task 2: Prompted CodeZero to generate the Express server setup and MongoDB conne
 Task 3: Used CodeZero to generate the User and Snippet Mongoose models with strict schema validations.
 
 Task 4: Used CodeZero to generate JWT authentication middleware and secure login/register routes.
+
+Task 5: Used CodeZero to configure Tailwind CSS directives and content paths in the Vite React frontend.
+
+Task 6: Prompted CodeZero to generate responsive Tailwind CSS Authentication screens (Login/Register) and configure React Router navigation.
+
+Task 7: Switched to MongoDB Atlas for cloud database hosting and successfully verified the full-stack JWT authentication handshake.
